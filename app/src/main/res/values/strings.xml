@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">habichte-scouting-app</string>
+    <string name="login_email">Email-Adresse</string>
+    <string name="login_passwort">Passwort</string>
+    <string name="invalid_email">Keine gültige Email-Adresse</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+</resources>
