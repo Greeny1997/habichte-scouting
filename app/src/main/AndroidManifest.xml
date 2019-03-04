@@ -23,8 +23,16 @@
         </activity>
         <activity
             android:name=".DashboardActivity"
-            android:label="@string/title_activity_dashboard"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:label="@string/title_activity_dashboard" />
+        <activity android:name=".SupportActivity" />
+        <activity
+            android:name=".ProfilActivity"
+            android:label="@string/title_activity_profil"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".SpielerInBearbeitenActivity"
+            android:label="@string/title_activity_spieler_in_bearbeiten"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

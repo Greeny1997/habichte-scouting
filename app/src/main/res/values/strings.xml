@@ -4,4 +4,7 @@
     <string name="login_passwort">Passwort</string>
     <string name="invalid_email">Keine gültige Email-Adresse</string>
     <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_profil">ProfilActivity</string>
+    <string name="title_activity_spieler_in_bearbeiten">SpielerInBearbeitenActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>
